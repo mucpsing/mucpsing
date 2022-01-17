@@ -2,13 +2,14 @@
 
 ## About me
 - :blue_heart: Programming
-- :earth_africa: I'm from France
+- :earth_africa: I'm from China
 - :computer: I daily use :  `.css` `.js` `.ts` `.py`
 - :love_you_gesture: I'm creating my own ersonal study notes website called [Capsion.top](https://capsion.top)
-- :books: Currently learning [Vue3JS](https://v3.vuejs.org/), [Typescript](https://www.typescriptlang.org/) and [ViteJS](https://vitejs.dev/)
+- :books: Currently learning [VueJS](https://v3.vuejs.org/), [Typescript](https://www.typescriptlang.org/) and [ViteJS](https://vitejs.dev/)
 - :musical_note: Music addict
 
 ## Projects i'm working on
+
 
 
 ## Skills and Tools
@@ -31,6 +32,7 @@
 <li>Frameworks</li>
 </br>
 <img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/uniapp-07C160?style=flat&logo=WeChat&logoColor=white">
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white">
 <img src="https://img.shields.io/badge/vite-646CFF?style=flat&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=white">
