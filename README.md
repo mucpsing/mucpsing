@@ -7,6 +7,7 @@
 - :love_you_gesture: I'm creating my own ersonal study notes website called [Capsion.top](https://capsion.top)
 - :books: Currently learning [VueJS](https://v3.vuejs.org/), [Typescript](https://www.typescriptlang.org/) and [ViteJS](https://vitejs.dev/)
 - :musical_note: Music addict
+![Metrics](https://metrics.lecoq.io/mucpsing?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&introduction=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FShanghai)
 
 ## Projects i'm working on
 
