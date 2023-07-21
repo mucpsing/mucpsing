@@ -1,7 +1,10 @@
 <h1>Hi, I'm Capsion <img width="30px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/hand.gif"></h1>
+
 <p align="left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mucpsing&theme=radical">
 </p>
+
+
 ## About me
 - :blue_heart: Programming
 - :earth_africa: I'm from China
