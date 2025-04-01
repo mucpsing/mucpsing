@@ -1,25 +1,33 @@
 <h1>Hi, I'm Capsion <img width="30px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/hand.gif"></h1>
 
-<p align="left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mucpsing&theme=radical&count_private=true&hide=jupyter%20notebook">
+<p>
+我是一名自学成才、自我激励的Web全栈工程师，在参与多个项目的过程中积累了中等经验。工作态度热情勤勉，始终对学习新技术保持浓厚兴趣。（而且我的主力机是SurfacePro + MacOS/Arch Linux）</p>
+<p>
+Self-taught and self-motivated Web Developer with intermediate experience working on multiple projects. Passionate and hardworking, with a keen interest in learning new technologies. (i use arch btw)
+</p>
+
+
+<h1>I've worked with these technologies</h1>
+<p>
+  <a href="https://skills-icons.vercel.app">
+    <img src="https://skills-icons.vercel.app/api/icons?theme=dark&i=python,ts,nodejs,java,php,js,pug,html,css,scss,stylus,tailwind,gsap,react,vue,electron,pinia,nuxt,nestjs,nextjs,springboot,vite,vitest,prisma,postgres,mysql,mongodb,sqlite,prisma,fastapi,django,swagger,gin,git,github,githubactions,bash,linux,centos,arch,vim,neovim,lua,aws,gcp,docker,docker-composer,nginx,vercel,cloudflare,npm,pnpm,ps,ae,figma,docusaurus,obsidian,vscode" alt="Technologies">
+  </a>
 </p>
 
 
 ## About me
+- [HomePage 技术博客](https://www.capsion.top/)
 - :blue_heart: Programming
 - :earth_africa: I'm from China
-- :computer: I daily use :  `.css` `.js` `.ts` `.py`
+- :computer: I Away Use :  `.ts` `.py` `.java` `.lua` `.php`
 - :love_you_gesture: I'm creating my own ersonal study notes website called [Capsion.top](https://capsion.top)
 - :books: Currently learning [VueJS](https://v3.vuejs.org/), [Typescript](https://www.typescriptlang.org/) and [ViteJS](https://vitejs.dev/)
 - :musical_note: Music addict
 
-## Projects i'm working on
-![Metrics](https://metrics.lecoq.io/mucpsing?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&introduction=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FShanghai)
-
 
 
 ## Skills and Tools
-<ul>
+<ul algin="center">
 <li>Languages</li>
 </br>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
@@ -68,6 +76,14 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white">
 
 </br>
+
+
+
 </br>
 </ul>
+
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mucpsing&theme=radical&count_private=true&hide=jupyter%20notebook">
+</p>
+
 
