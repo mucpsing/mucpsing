@@ -1,4 +1,4 @@
-<h1>Hi, I'm Capsion <img width="30px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/hand.gif"></h1>
+<h1>🏄‍♂️ Hi, I'm Capsion <img width="30px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/hand.gif"></h1>
 
 <p>
 我是一名自学成才、自我激励的Web全栈工程师，在参与多个项目的过程中积累了中等经验。工作态度热情勤勉，始终对学习新技术保持浓厚兴趣。（而且我的主力机是SurfacePro + MacOS/Arch Linux）</p>
@@ -6,14 +6,34 @@
 Self-taught and self-motivated Web Developer with intermediate experience working on multiple projects. Passionate and hardworking, with a keen interest in learning new technologies. (i use arch btw)
 </p>
 
-
-<h1>I've worked with these technologies</h1>
+## 🖮 Front-end Development & Skill | 前端技能
 <p>
   <a href="https://skills-icons.vercel.app">
-    <img src="https://skills-icons.vercel.app/api/icons?theme=dark&i=python,ts,nodejs,java,php,js,pug,html,css,scss,stylus,tailwind,gsap,react,vue,electron,pinia,nuxt,nestjs,nextjs,springboot,vite,vitest,prisma,postgres,mysql,mongodb,sqlite,prisma,fastapi,django,swagger,gin,git,github,githubactions,bash,linux,centos,arch,vim,neovim,lua,aws,gcp,docker,docker-composer,nginx,vercel,cloudflare,npm,pnpm,ps,ae,figma,docusaurus,obsidian,vscode" alt="Technologies">
+    <img src="https://skills-icons.vercel.app/api/icons?theme=dark&i=html,css,js,ts,react,vue,pug,scss,stylus,tailwind,gsaps,vite,vitest,electron,pinia,docusaurus,npm,pnpm" alt="Technologies">
   </a>
 </p>
 
+## 🔧 Back-end Development & Skill | 后端技能
+<p>
+  <a href="https://skills-icons.vercel.app">
+    <img src="https://skills-icons.vercel.app/api/icons?theme=dark&i=python,java,nodejs,lua,php,mysql,sql,mongodb,sqlite,prisma,postgres,springboot,fastapi,django,swagger,nuxt,nestjs,nextj,gin" alt="Technologies">
+  </a>
+</p>
+
+## 🖧 运维技能
+<p>
+  <a href="https://skills-icons.vercel.app">
+    <img src="https://skills-icons.vercel.app/api/icons?theme=dark&i=linux,arch,vim,docker,docker-composer,nginx,cloudflare,aws,bash" alt="Technologies">
+  </a>
+</p>
+
+
+## 🧰 Tools | 日常工具
+<p>
+  <a href="https://skills-icons.vercel.app">
+    <img src="https://skills-icons.vercel.app/api/icons?theme=dark&i=git,github,githubactions,prisma,neovim,gcp,vercel,ps,ae,figma,obsidian,vscode" alt="Technologies">
+  </a>
+</p>
 
 ## About me
 - [HomePage 技术博客](https://www.capsion.top/)
