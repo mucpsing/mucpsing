@@ -1,4 +1,6 @@
-<h1>🏄‍♂️ Hi, I'm Capsion <img width="30px" src="https://github.com/MrAnyx/MrAnyx/blob/master/assets/hand.gif"></h1>
+
+# 🏄‍♂️ Hi, My Name is Capsion,  I'm A [hand](https://github.com/MrAnyx/MrAnyx/blob/master/assets/hand.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=2000&vCenter=true&random=true&width=550&height=55&lines=%F0%9F%92%BB+Frontend+Developer+%7C+Building+responsive+interfaces++;%F0%9F%95%B9%EF%B8%8F+90s+Kid+%7C+Full-stack+tech+enthusiast++;%F0%9F%9B%A0%EF%B8%8F+Backend+Engineer+%7C+Scalable+solutions+expert++;%F0%9F%8F%83%E2%99%82%EF%B8%8F+Daily+Runner+%7C+5km+streak+maintainer++;%F0%9F%8E%A8+Interaction+Designer+%7C+User-centered+experiences++;%F0%9F%91%A8%F0%9F%91%A7%F0%9F%91%A7+Family+Man+%7C+Two+wonderful+children)](https://git.io/typing-svg)
 
 <p>
 我是一名自学成才、自我激励的Web全栈工程师，在参与多个项目的过程中积累了中等经验。工作态度热情勤勉，始终对学习新技术保持浓厚兴趣。（而且我的主力机是SurfacePro + MacOS/Arch Linux）</p>
